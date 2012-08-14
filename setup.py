@@ -12,6 +12,8 @@ setup(
     author = 'Texas Tribune',
     url = 'http://github.com/texastribune/officeledger',
     packages=['officeledger'],
+    package_dir={'officeledger': 'officeledger'},
+    package_data={'officeledger': ['templates/*']},
     classifiers = ['Development Status :: 4 - Beta',
                    'Environment :: Web Environment',
                    'Framework :: Django',
