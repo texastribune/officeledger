@@ -1,0 +1,14 @@
+<table >
+    <tr>
+        <th>Account</th>
+        <th>Balance</th>
+    </tr>
+    {% for account in accounts %}
+    <tr>
+        <td style='padding:5px'>{{ account }}</td>
+        <td style='padding:5px'>${{ account.balance }}</td>
+    </tr>
+    {% endfor %}
+</table>
+<br/> <br/>
+Cash Balance: ${{ cash_balance }}

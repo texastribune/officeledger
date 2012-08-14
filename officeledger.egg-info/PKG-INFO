@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: officeledger
+Version: 0.1.0.alpha.0
+Summary: A tool for keeping track of what people owe.
+Home-page: http://github.com/texastribune/officeledger
+Author: Texas Tribune
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities

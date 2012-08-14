@@ -1,0 +1,11 @@
+*.pyc
+*~
+*.swp
+coverage/*
+build/*
+docs/_build
+MANIFEST
+dist/
+audio/*
+mydatabase
+
