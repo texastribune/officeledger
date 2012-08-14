@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 # Dynamically calculate the version based on mptt.VERSION
-version_tuple = (0, 1, 0, 'alpha', 0)
+version_tuple = (0, 2, 0, 'alpha', 0)
 version = ".".join([str(v) for v in version_tuple])
 
 setup(
